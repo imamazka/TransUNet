@@ -7,6 +7,3 @@ This repository contains code, data, and results from a research project on rice
 - Multi-source satellite data fusion (Sentinel-1 & Sentinel-2)  
 - Hybrid TransUNet for rice field segmentation  
 - Performance evaluation on Indramayu rice fields  
-
-## **License**  
-MIT License (or specify your preferred license). 
